@@ -1,4 +1,4 @@
-cd /* Programa: Número múltiplo de 3 */
+/* Programa: Número múltiplo de 3 */
 
 #include <conio.h>
 #include <stdio.h>
