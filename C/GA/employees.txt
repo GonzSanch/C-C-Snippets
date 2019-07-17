@@ -1,0 +1,4 @@
+Jim, Salesman
+Pam, Recepcionist
+Oscar, Accounting
+Michael, Manager
