@@ -1,2 +1,4 @@
 #ignore all exe
 *.exe
+#ignore Kernighan.pdf
+Kernighan.pdf
